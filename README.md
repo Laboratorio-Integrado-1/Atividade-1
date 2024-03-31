@@ -38,7 +38,7 @@ Cada movimento consome 1 pulso de clock.
 
 O robô deve seguir o muro até encontrar um novo muro ou até que o muro faça uma curva à esquerda, ocasião em que o robô também deve dobrar à esquerda e prosseguir. A regra prioritária após cada rotação é que se houver um muro à esquerda, o robô deve acompanhá-lo.
 
-![Figura 1. Campo de Teste](https://github.com/Laboratorio-Integrado-1/Atividade-1/blob/main/campo_de_teste.pngg)
+![Figura 1. Campo de Teste](https://github.com/Laboratorio-Integrado-1/Atividade-1/blob/main/campo_de_teste.png)
 
 ## Implementação
 
