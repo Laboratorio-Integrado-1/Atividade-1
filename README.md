@@ -9,7 +9,7 @@
 
 - Felipe Soares Trebino
 - Fabio Miguel Mascarenhas dos Santos
-- 
+- Marcio Gabriel Alves Trindade
 
 ## Especificação do Problema
 
